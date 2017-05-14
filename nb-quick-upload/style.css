@@ -1,0 +1,27 @@
+.cell.quickupload-selected {
+  background: #ddff80;
+}
+
+.quickupload-close {
+  margin-top: -5px;
+}
+
+.quickupload-submission label {
+  font-weight: bold;
+  font-size: 100%;
+  margin-bottom: 5px;
+  margin-right: 0;
+  margin-left: 0;
+  display: block;
+}
+
+.quickupload-submission .form-group {
+  margin-bottom: 5px;
+}
+
+.quickupload-submit .label,
+.quickupload-submit input {
+  margin-bottom: 5px;
+  display: block;
+  width: 100%;
+}
