@@ -4,8 +4,8 @@ Upload Jupyter notebooks as gists quickly and easily. And if you don't want to u
 
 ```bash
 git clone https://github.com/jsoma/nb-quick-upload.git
-jupyter contrib nb-quick-upload install --user
-jupyter nbextension enable nb-quick-upload
+jupyter nbextension install nb-quick-upload --user
+jupyter nbextension enable nb-quick-upload/main
 ```
 
 When you're in your notebooks you'll have a brand-new icon, a little generic cloud-upload thingy. Use it to get rolling with your uploading.
